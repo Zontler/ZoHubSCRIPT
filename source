@@ -1,3 +1,5 @@
+--WARNING IF YOU STEAL THIS HUB YOU WILL BE EXPECTED IN COURT
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("ZoHub 1.0", "Synapse")
 
